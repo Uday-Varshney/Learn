@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+section {
+  display: grid;
+  /* align-items: center; */
+  place-items: center; /*this is use in grid */
+  /* text-align: center; */
+  align-content: center; /*this is use in grid */
+  min-height: 100vh;
+}
+
+.hidden {
+  opacity: 0;
+  filter: blur(5px);
+  transform: translateX(-100%);
+  transition: all 1s;
+}
+
+.show {
+  opacity: 1;
+  filter: blur(0);
+  transform: translateX(0);
+}

@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  text-align: center;
+  color: aliceblue;
+  background-color: aqua;
+  height: 5rem;
+  /* this will align the text vetically center */
+  line-height: 5rem;
+  margin-top: auto;
+}

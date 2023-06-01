@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Btree",
+      "request": "launch",
+      "mainClass": "Btree",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch binaryTree",
+      "request": "launch",
+      "mainClass": "binaryTree",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch binaryTree",
+      "request": "launch",
+      "mainClass": "Tree.binaryTree",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch shellSort",
+      "request": "launch",
+      "mainClass": "shellSort",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch quicksort",
+      "request": "launch",
+      "mainClass": "quicksort",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Backtracking",
+      "request": "launch",
+      "mainClass": "Backtracking",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch bubble",
+      "request": "launch",
+      "mainClass": "bubble",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertion",
+      "request": "launch",
+      "mainClass": "insertion",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch revArr",
+      "request": "launch",
+      "mainClass": "revArr",
+      "projectName": "DSA_748d44ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch selection",
+      "request": "launch",
+      "mainClass": "selection",
+      "projectName": "DSA_748d44ce"
+    }
+  ]
+}

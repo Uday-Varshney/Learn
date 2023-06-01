@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Uday",
+    "lname": "Varhsney",
+    "age": 22,
+    "phoneno": 123456
+  },
+  {
+    "name": "Krati",
+    "lname": "Varhsney",
+    "age": 26,
+    "phoneno": 8273274074
+  },
+  {
+    "name": "Aditya",
+    "lname": "Varhsney",
+    "age": 31,
+    "phoneno": 9808363718
+  }
+]

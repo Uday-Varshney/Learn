@@ -1,0 +1,23 @@
+.baground {
+  background-color: aqua;
+  width: 60vw;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  /* text-align: center; */
+  justify-content: center;
+}
+
+#quotes {
+  background-color: antiquewhite;
+  width: 40vw;
+  height: 40vh;
+}
+
+#author {
+  background-color: violet;
+}
+
+#button {
+  background-color: rgb(0, 164, 164);
+}
