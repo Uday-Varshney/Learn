@@ -1,1 +1,1 @@
-new file data writeen in the txt doc.
+Overwritten data in this. append on the rigth of the file .
