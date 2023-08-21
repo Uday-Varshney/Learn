@@ -15,6 +15,7 @@ const server = http.createServer((req, res) => {
     res.writeHead("200", { "content-type": "application/json" });
     res.end(objData[0].name);
   } else {
+    // Content type bata ta h ki html ka content h ye ane wala
     res.writeHead(404, { "Content-type": "text/html" });
     res.end("Page not found babua 404");
     // res.write("Page not found babua 404 sab apne baap ki bapauti h be");
