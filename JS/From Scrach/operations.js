@@ -1,3 +1,5 @@
+// JavaScript is a dynamically typed language, which means that data types of variables are determined by the value they hold at runtime and can change throughout the program as we assign different values to them
+
 // console.log( 1 + "2"); this prints 12
 // console.log( "1" + 2); this prints 12
 // console.log( "1" + "2"); this prints 12
@@ -21,3 +23,9 @@
 // jiss tarike se data store kiya jata aur access kiya  jata h uss basis p do types h
 // primitive:= bigint number string null undefine symbol boolean (callbyvalue).
 // nonprimitive (reference):= arrray objects functions
+
+
+// let Id=Symbol("123");
+// let anotherId=Symbol("123");
+// console.log(Id == anotherId); theese are not equal because symbol make variable unique
+
