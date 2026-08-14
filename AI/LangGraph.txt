@@ -1,0 +1,13 @@
+LangChain is an orchestration framework for building LLM-powered applications. It provides components such as prompts, chains, memory, retrievers, tools, and agents that help connect Large Language Models with external data and business logic.
+
+Instead of calling an LLM directly every time, LangChain helps us create structured workflows around the model.
+
+LLMs:- OpenAI, Claude, Gemini, DeepSeek
+
+LangGraph is an extension of LangChain used to build stateful, multi-step AI workflows represented as graphs.
+LangGraph is the framework that helps to call API (Unified AI Api calling)
+
+
+LangSmith is the observability, debugging, testing, and monitoring platform for LangChain and LangGraph applications.
+
+ZOD is basically used for schema declerationa and validation.
