@@ -1,0 +1,5 @@
+RAG is the process of optimizing the output of a large languar model, so it reference an authroritative knowledge base outside of tis rtraining data sorucves before generating a resposne. LLM are trainded on vast volumes of data and use billions of paramaters to gerate original output for tasks like ansering questions, tranlating lanuguge and completing sentences. RAG extgends the  already powerful capabilites of LLMs to sepecific domains ro an origanization's internal Knowledge bsae all without the need to retrain the model. It is a cost-effective approach to imporiving LLM output so it rremains relevant accurate and useful in various contxts.
+
+Fine tune is espensive because of twearking billiions of paramaters
+
+RAG piple line hage two parts Ingestion pipeline and reterieval pipeline.
