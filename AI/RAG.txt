@@ -3,3 +3,5 @@ RAG is the process of optimizing the output of a large languar model, so it refe
 Fine tune is espensive because of twearking billiions of paramaters
 
 RAG piple line hage two parts Ingestion pipeline and reterieval pipeline.
+
+LLM 56
