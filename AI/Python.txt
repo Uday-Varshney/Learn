@@ -23,3 +23,10 @@ lsit3=[(x,y) for x in list for y in list2] prints 16 value with pair
 
 Tuple:
 Ordered collection of items that are immutable they are similar to list but have immutability.
+
+Lambda function are small annoymyous functions defined using lambda keyword. They can have any number of argumnets but have only one expression. Commonly used for short operations or as argumnets to high order functions.
+lambda argumnets: expression
+We have map funciton in lambda when you want to apply a quick, one-time transformation to every item in a collection and it returns ojbect(an iterator). It takes two parameters map(function,iterable)
+
+Filter is used to filter out the items form the list(iterable) based on a condition 
+
