@@ -5,3 +5,21 @@ Fine tune is espensive because of twearking billiions of paramaters
 RAG piple line hage two parts Ingestion pipeline and reterieval pipeline.
 
 LLM 56
+
+A typical RAG pipeline has two major stages.
+
+Stage 1: Document ingestion
+1. Collect documents such as PDFs, Word files, and knowledge articles.
+2. Extract text from the documents.
+3. Split the text into smaller chunks.
+4. Generate embeddings for each chunk.
+5. Store the embeddings and associated metadata in a vector database.
+Stage 2: Query processing
+1. User submits a question.
+2. Generate an embedding for the question.
+3. Search the vector database for similar chunks.
+4. Retrieve the most relevant documents.
+5. Add retrieved context to the prompt.
+6. Send the prompt to the LLM.
+7. Return the generated response to the user.
+The main advantage is that the model can answer questions using external and updated business information.
